@@ -1,4 +1,4 @@
-Hi 👋 I'm Mohamed Khettab
+## Hi 👋 I'm Mohamed Khettab
 
 I'm a student focused on building real projects with code and seeking hands-on experience.
 
