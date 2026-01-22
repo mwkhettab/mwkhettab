@@ -1,7 +1,10 @@
-## Hi 👋 I'm Mohamed Khettab
+# Hi 👋 I'm Mohamed Khettab
 
-I'm a student focused on building real projects with code and seeking hands-on experience.
+I'm a student focused on building real-world projects and gaining hands-on experience through technology.
 
-Right now, I'm learning AI and machine learning and exploring cybersecurity.
+## Currently Learning
+- Artificial Intelligence & Machine Learning  
+- Cybersecurity  
 
-Feel free to explore my projects ⬇️
+## Projects
+Feel free to explore my projects below ⬇️
