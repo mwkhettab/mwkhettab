@@ -1,3 +1,7 @@
-# Hi there 👋
+Hi 👋 I'm Mohamed Khettab
 
-I am a high schooler passionate about technology. Check out some of my projects below!
+I'm a student focused on building real projects with code and seeking hands-on experience.
+
+Right now, I'm learning AI and machine learning and exploring cybersecurity.
+
+Feel free to explore my projects ⬇️
