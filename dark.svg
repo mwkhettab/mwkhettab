@@ -1,13 +1,24 @@
 <svg
 	xmlns="http://www.w3.org/2000/svg" width="912" height="288" viewBox="0 0 612 192" style="background-color:#0d1117;font-family:monospace;">
 	<style>
-    text { font-size:9px; font-weight:bold; }
-    .code-key { fill:#9CDCFE; font-weight:bold; }
+    text {
+		font-family:
+		ui-monospace,
+		SFMono-Regular,
+		SF Mono,
+		Menlo,
+		Consolas,
+		Liberation Mono,
+		monospace;
+		font-size: 9px;
+		font-weight: 600;
+	}    
+	.code-key { fill:#9CDCFE; font-weight:600; }
     .code-string { fill:#D69D85; }
     .code-number { fill:#B5CEA8; }
     .code-boolean { fill:#569CD6; }
     .code-null { fill:#569CD6; }
-    .code-brace { fill:#D4D4D4; font-weight:bold; } 
+    .code-brace { fill:#D4D4D4; font-weight:600; } 
     </style>
 	<!-- ASCII Art -->
 	<text x="0" y="10" fill="#6A7584">1</text>

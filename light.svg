@@ -1,7 +1,18 @@
 <svg
 	xmlns="http://www.w3.org/2000/svg" width="912" height="288" viewBox="0 0 612 192" style="background-color:#FFF;font-family:monospace;">
 	<style>
-    text { font-size:9px; font-weight:600; }
+	text {
+		font-family:
+		ui-monospace,
+		SFMono-Regular,
+		SF Mono,
+		Menlo,
+		Consolas,
+		Liberation Mono,
+		monospace;
+		font-size: 9px;
+		font-weight: 600;
+	}
     .code-key { fill:#0550ae; font-weight:600; }
     .code-string { fill:#0a3069; }
     .code-brace { fill:#24292f; font-weight:600; }
